@@ -1,0 +1,18 @@
+button {
+	font-size: 50px;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 25vh;
+}
+
+.startbtn {
+	margin: 1vh;
+}
+
+.stopbtn {
+	margin: 1vh;
+}
